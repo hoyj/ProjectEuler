@@ -4,4 +4,4 @@
 
 **MyAnswers to Questions**  
 [Question 1](./1.py)   
-[Question 2](./2.py) / [TIP](./2_tip.md) / [TIP2](.2_tip2.md)
+[Question 2](./2.py) / [TIP](./2_tip.md) / [TIP2](./2_tip2.md)
