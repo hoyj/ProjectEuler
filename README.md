@@ -8,4 +8,5 @@
 [Question 3](./3.py)  
 [Question 4](./4.py) / [REVIEW](./4_Answer2.py)  
 [Question 5](./5.py) / [TIP-LCM](./5_LCM.md)  
+[Question 6](./6.py) / [Sum Of Squares](./6_Squares.md)  
 
