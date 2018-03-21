@@ -11,4 +11,5 @@
 [Question 6](./6.py) / [Sum Of Squares](./6_Squares.md)  
 [Question 7](./7.py)  
 [Question 8](./8.py)  
+[Question 9](./9.py) - Good practice for approximating  
 
