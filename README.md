@@ -13,4 +13,5 @@
 [Question 8](./8.py)  
 [Question 9](./9.py) - Good practice for approximating  
 [Question 10](./10.py) - Extrememly good for sum of primes  
+[Question 11](./11.py) / [OOP Version](./11_revised.py)  
 
