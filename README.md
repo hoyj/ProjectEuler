@@ -14,4 +14,5 @@
 [Question 9](./9.py) - Good practice for approximating  
 [Question 10](./10.py) - Extrememly good for sum of primes  
 [Question 11](./11.py) / [OOP Version](./11_revised.py)  
+[Question 12](./12.py) - Prime Factorization. Factors come in pairs.  
 
