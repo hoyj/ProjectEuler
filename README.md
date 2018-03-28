@@ -16,4 +16,4 @@
 [Question 11](./11.py) / [OOP Version](./11_revised.py)  
 [Question 12](./12.py) - Prime Factorization. Factors come in pairs.  
 [Question 13](./13.py)  
-
+[Question 14](./14.py) - Memoization
