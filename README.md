@@ -33,4 +33,5 @@ clang FILENAME.c -o FILENAME
 [Question 16](./16.py)  
 [Question 17](./17.py) - Currently provides wrong answer 21224. The correct answer should be 21124.  
 [Question 18](./18.c) / [Revised](./18_revised.c) - Understand how structs and arrays are passed (reference or variable) into functions  
+[Question 19](./19.c) - mod / [Python implementation](./19.py) - calendar lib  
 
