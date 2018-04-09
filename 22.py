@@ -1,3 +1,7 @@
+'''
+Project Euler Problem #22
+'''
+
 with open("./tmp/names.txt", "r") as f:
     buf = f.read()
     names = sorted(buf.split(','))

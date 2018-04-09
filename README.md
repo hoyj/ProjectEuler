@@ -36,4 +36,4 @@ clang FILENAME.c -o FILENAME
 [Question 19](./19.c) - mod / [Python implementation](./19.py) - calendar lib  
 [Question 20](./20.c) - use of arrays to store big numbers.  
 [Question 21](./21.c)  
-Question 22 - [python](./22.py)
+Question 22 - [C](./22.c), [python](./22.py)
