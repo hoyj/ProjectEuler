@@ -39,6 +39,6 @@ clang FILENAME.c -o FILENAME
 Question 22 - [C](./22.c), [python](./22.py)  
 Question 23 - [C](./23.c), [python](./23.py) - memoization using bit arrays.  
 Question 24 - [C](./24.c) - recursion  
-Question 25 - [C](./25.c)  
-
+Question 25 - [C](./25.c), [python](./25.py)  
+ 
 

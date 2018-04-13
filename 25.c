@@ -47,14 +47,14 @@ int main() {
 	count = 1;
 
 	while(cur_digits != DIGITS) {
-		printf("F%d:", count);
-		print_arr(cur, cur_digits);
-		printf("\n");
+		//printf("F%d:", count);
+		//print_arr(cur, cur_digits);
+		//printf("\n");
 		add(cur, &cur_digits, next, &next_digits);
 		count += 1;
 	}
 	printf("F%d:", count);
-	print_arr(cur, cur_digits);
+	//print_arr(cur, cur_digits);
 	printf("\n");
 	return 0;
 }
