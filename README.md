@@ -32,13 +32,14 @@ clang FILENAME.c -o FILENAME
 [Question 15](./15.py) - Used Memoization / [Mathematical implementation](./15_math.py)  
 [Question 16](./16.py)  
 [Question 17](./17.py) - Currently provides wrong answer 21224. The correct answer should be 21124.  
-[Question 18](./18.c) / [Revised](./18_revised.c) - Understand how structs and arrays are passed (reference or variable) into functions  
-[Question 19](./19.c) - mod / [Python implementation](./19.py) - calendar lib  
-[Question 20](./20.c) - use of arrays to store big numbers.  
-[Question 21](./21.c)  
-Question 22 - [C](./22.c), [python](./22.py)  
-Question 23 - [C](./23.c), [python](./23.py) - memoization using bit arrays.  
-Question 24 - [C](./24.c) - recursion  
-Question 25 - [C](./25.c), [python](./25.py)  
- 
+Question 18 - [C](./18.c),[Revised C](./18_revised.c) / Understand how structs and arrays are passed (reference or variable) into functions  
+Question 19 - [C](./19.c),[python](./19.py) / mod, calendar lib  
+Question 20 - [C](./20.c) / use of arrays to store big numbers.  
+Question 21 - [C](./21.c)  
+Question 22 - [C](./22.c),[python](./22.py)  
+Question 23 - [C](./23.c),[python](./23.py) / memoization using bit arrays.  
+Question 24 - [C](./24.c) / recursion  
+Question 25 - [C](./25.c),[python](./25.py)  
+Question 26 - [python](./26.py) / [recurring digits](./26_read.md)  
+
 
