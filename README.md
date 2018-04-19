@@ -42,5 +42,6 @@ Question 24 - [C](./24.c) / recursion
 Question 25 - [C](./25.c),[python](./25.py)  
 Question 26 - [python](./26.py) / [recurring digits](./26_read.md)  
 Question 27 - [C](./27.c) / memoization, trial division  
+Question 28 - [C](./28.c)  
 
 
