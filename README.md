@@ -44,5 +44,6 @@ Question 26 - [python](./26.py) / [recurring digits](./26_read.md)
 Question 27 - [C](./27.c) / memoization, trial division  
 Question 28 - [C](./28.c)  
 Question 29 - [C](./29.c),[python](./29.py) / mathematical approach in C  
+Question 30 - [python](./30.c) / was quite difficult...  
 
 
