@@ -47,5 +47,6 @@ Question 29 - [C](./29.c),[python](./29.py) / mathematical approach in C
 Question 30 - [python](./30.c) / was quite difficult...  
 Question 31 - SKIP until DP study  
 Question 32 - [C](./32.c),[python](./32.py)  
+Question 33 - [python](./33.py)  
 
 
