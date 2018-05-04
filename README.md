@@ -50,5 +50,6 @@ Question 32 - [C](./32.c),[python](./32.py)
 Question 33 - [python](./33.py)  
 Question 34 - [python](./34.py) / Think more about range of the answer  
 Question 35 - [C](./35.c) / Sieve of Eratosthenes  
+Question 36 - [C](./36.c), [python](./36.py)  
 
 
