@@ -53,5 +53,6 @@ Question 35 - [C](./35.c) / Sieve of Eratosthenes
 Question 36 - [C](./36.c), [python](./36.py)  
 Question 37 - [python](./37.py)  
 Question 38 - [python](./38.py)  
+Question 39 - [python](./39.py)  
 
 
