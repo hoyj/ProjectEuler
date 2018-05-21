@@ -54,5 +54,7 @@ Question 36 - [C](./36.c), [python](./36.py)
 Question 37 - [python](./37.py)  
 Question 38 - [python](./38.py)  
 Question 39 - [python](./39.py)  
+Question 40 - [md](./40.md) / Mathematical calculation  
+
 
 
