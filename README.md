@@ -55,6 +55,7 @@ Question 37 - [python](./37.py)
 Question 38 - [python](./38.py)  
 Question 39 - [python](./39.py)  
 Question 40 - [md](./40.md) / Mathematical calculation  
-Question 41 - [python](./40.py) / refer: https://blog.dreamshire.com/project-euler-41-solution/  
+Question 41 - [python](./41.py) / refer: https://blog.dreamshire.com/project-euler-41-solution/  
+Question 42 - [python](./42.py)  
 
 
