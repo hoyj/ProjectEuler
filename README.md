@@ -59,5 +59,6 @@ Question 41 - [python](./41.py) / refer: https://blog.dreamshire.com/project-eul
 Question 42 - [python](./42.py)  
 Question 43 - no code. divisibility analysis  
 Question 44 - [python](./44.py)  
+Question 45 - [python](./45.py)  
 
 
