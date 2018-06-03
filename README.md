@@ -61,5 +61,6 @@ Question 43 - no code. divisibility analysis
 Question 44 - [python](./44.py)  
 Question 45 - [python](./45.py)  
 Question 46 - [python](./46.py)  
+Question 47 - [python](./47.py)  
 
 
