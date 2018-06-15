@@ -64,5 +64,6 @@ Question 46 - [python](./46.py)
 Question 47 - [python](./47.py)  
 Question 48 - [python](./48.py)  
 Question 49 - [python](./49.py)  
+Question 50 - [python](./50.py) / still need optimizing  
 
 
